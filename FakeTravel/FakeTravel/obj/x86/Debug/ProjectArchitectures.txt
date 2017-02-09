@@ -1,0 +1,1 @@
+C:\Users\devra\Documents\Visual Studio 2015\Projects\Windows10App\FakeTravel\FakeTravel\FakeTravel.csproj;x86
